@@ -1,0 +1,9 @@
+name: PartnerPackages
+version: 1.0.0
+main: PartnerPackages
+api: 4.0.0
+author: AlanGarcia
+
+permissions:
+  partnerpackages.command:
+    default: op
