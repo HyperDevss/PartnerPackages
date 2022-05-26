@@ -1,6 +1,6 @@
 name: PartnerPackages
 version: 1.0.0
-main: PartnerPackages
+main: PartnerPackages\Loader
 api: 4.0.0
 author: AlanGarcia
 
